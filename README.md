@@ -26,6 +26,7 @@ algorithms applied to those vertices:
    - Perlin noise (classic gradient noise)
    - Simplex noise (improvement upon Perlin) 
    - Value noise 
+
 Planets will be populated with trees, shrubs, water, mountains, valleys, deserts, tundras, etc. This will not go as far as to create
 peoples/cultures on different types of planets. 
 If planets have water, simple aquatic creatures like fish can be generated. Fish movement will be goverened by 3 simple rules:
